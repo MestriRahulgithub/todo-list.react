@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MestriRahulgithub/todo-list.react.git/static/css/main.d50124f2.css",
+    "main.js": "/MestriRahulgithub/todo-list.react.git/static/js/main.08ce81a5.js",
+    "static/js/845.c1775447.chunk.js": "/MestriRahulgithub/todo-list.react.git/static/js/845.c1775447.chunk.js",
+    "index.html": "/MestriRahulgithub/todo-list.react.git/index.html",
+    "main.d50124f2.css.map": "/MestriRahulgithub/todo-list.react.git/static/css/main.d50124f2.css.map",
+    "main.08ce81a5.js.map": "/MestriRahulgithub/todo-list.react.git/static/js/main.08ce81a5.js.map",
+    "845.c1775447.chunk.js.map": "/MestriRahulgithub/todo-list.react.git/static/js/845.c1775447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50124f2.css",
+    "static/js/main.08ce81a5.js"
+  ]
+}
